@@ -58,6 +58,12 @@ np.std(np_city[:, 0]) # Standard deviation
 - Structured data `csv`, `json`, `xml`, `xlsx` files
 - Unstructured data `pdf`, `docx`, `txt`, `xlsx` files
 - Binary and proprietary data `?` files
-- databases
-- websites
+- Databases: SQL, NoSQL
+- Cloud databases: Google BigQuery, ...
 - API endpoints
+- Websites (web scraping)
+
+Data sources:
+
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
